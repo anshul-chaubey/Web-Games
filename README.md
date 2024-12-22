@@ -14,6 +14,6 @@ A simple, interactive game built with HTML, CSS, and JavaScript. Watch colorful 
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bouncing-balls-game.git
+   git clone https://github.com/anshul-chaubey/Web-Games?tab=readme-ov-file#evilbouncingball-game
 
 # The game runs directly in the browser, making it easy to play without any additional setup. Clone the repo and have fun!
